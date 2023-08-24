@@ -37,7 +37,7 @@ max-width: 100%;
   background-color: #8fb5e1;
   cursor: pointer;
 }
-@media screen and (min-width: 400px) {
+@media screen and (min-width: 300px) {
  
   #editor
   {
