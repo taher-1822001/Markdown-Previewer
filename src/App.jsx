@@ -153,9 +153,9 @@ class  App extends React.Component {
    </div>
    <div className="main-content border">
     <h5>This application was developed to markdown the text written in editor into HTML equivalent</h5>
-    <h6>in order to convert the text into editor, you need to use the following terminologies</h6>
+    <h6>in order to convert the text into HTML, you need to use the following terminologies</h6>
     <ul>
-      <li><code>#</code> is used for creating heading tags, the number of hashes it uses the less the size of the text it will have, at most you can use 6 #'s</li>
+      <li><code>#</code> is used for creating heading tags, the number of hashes it uses, the less the size of the text it will have, at most you can use 6 #'s</li>
       <li>If you write text in between <code>``` ```</code> (3 backticks) it will render it as a code </li>
       <li>In order to create an bold text, you can enter the text in between <code>** **</code> (2 asterisks)</li>
       <li>In order to create an italc text, you can enter the text in between <code>_ _</code> (underscores)</li>
